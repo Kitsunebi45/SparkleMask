@@ -1,0 +1,23 @@
+{
+  "name": "default",
+  "description": "Balanced cadence scrambling — good starting point for tuning",
+  "cat_intensity": 0.5,
+  "cat_matrix": null,
+  "golden_scaling": true,
+  "target_r": 0.5,
+  "coupling_k": 0.9241596378498006,
+  "noise_sigma": 0.7,
+  "h_min": 0.3819660112501051,
+  "h_max": 0.8660254037844386,
+  "h_target": 0.7,
+  "pi_gamma_ratio": 0.6180339887498949,
+  "oscillation_freq": 1.0,
+  "min_sentence_len": 3,
+  "max_reorder_distance": 3,
+  "clause_swap_prob": 0.3,
+  "contraction_bias": 0.5,
+  "punctuation_chaos": 0.2,
+  "vocab_register_shift": 0.0,
+  "tags": ["balanced", "starter"],
+  "version": "0.1.0"
+}

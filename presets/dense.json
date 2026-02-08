@@ -1,0 +1,23 @@
+{
+  "name": "dense",
+  "description": "Maximum information compression — aggressive mixing, high novelty",
+  "cat_intensity": 0.8,
+  "cat_matrix": null,
+  "golden_scaling": true,
+  "target_r": 0.4,
+  "coupling_k": 0.9241596378498006,
+  "noise_sigma": 0.7,
+  "h_min": 0.3819660112501051,
+  "h_max": 0.8660254037844386,
+  "h_target": 0.75,
+  "pi_gamma_ratio": 0.75,
+  "oscillation_freq": 1.2,
+  "min_sentence_len": 2,
+  "max_reorder_distance": 3,
+  "clause_swap_prob": 0.5,
+  "contraction_bias": 0.7,
+  "punctuation_chaos": 0.35,
+  "vocab_register_shift": 0.5,
+  "tags": ["dense", "compression", "aggressive"],
+  "version": "0.1.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "soft",
+  "description": "Light touch — readable first, scrambling second",
+  "cat_intensity": 0.2,
+  "cat_matrix": null,
+  "golden_scaling": true,
+  "target_r": 0.6,
+  "coupling_k": 0.9241596378498006,
+  "noise_sigma": 0.5,
+  "h_min": 0.3819660112501051,
+  "h_max": 0.8660254037844386,
+  "h_target": 0.6,
+  "pi_gamma_ratio": 0.6180339887498949,
+  "oscillation_freq": 0.8,
+  "min_sentence_len": 5,
+  "max_reorder_distance": 2,
+  "clause_swap_prob": 0.1,
+  "contraction_bias": 0.4,
+  "punctuation_chaos": 0.1,
+  "vocab_register_shift": -0.2,
+  "tags": ["soft", "readable", "gentle"],
+  "version": "0.1.0"
+}

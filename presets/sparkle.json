@@ -1,0 +1,29 @@
+{
+  "name": "sparkle",
+  "description": "Blend: 30% default + 70% dense",
+  "cat_intensity": 0.71,
+  "cat_matrix": null,
+  "golden_scaling": true,
+  "target_r": 0.43,
+  "coupling_k": 0.9241596378498006,
+  "noise_sigma": 0.7,
+  "h_min": 0.3819660112501051,
+  "h_max": 0.8660254037844386,
+  "h_target": 0.7349999999999999,
+  "pi_gamma_ratio": 0.7104101966249684,
+  "oscillation_freq": 1.1400000000000001,
+  "min_sentence_len": 2,
+  "max_reorder_distance": 3,
+  "clause_swap_prob": 0.44,
+  "contraction_bias": 0.6399999999999999,
+  "punctuation_chaos": 0.305,
+  "vocab_register_shift": 0.35,
+  "tags": [
+    "balanced",
+    "starter",
+    "dense",
+    "compression",
+    "aggressive"
+  ],
+  "version": "0.1.0"
+}
